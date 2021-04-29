@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#ResponsiveMenu" src="./src/assets/img/Chalkboard Welcome Canvas Banner.png" />
+  <img alt="ResponsiveMenu" title="#ResponsiveMenu" src="./src/assets/img/login&registration.png" />
 </h1>
 
 
@@ -25,7 +25,7 @@
 
 <h2 align="left" id="sobre">  Sobre </h2>
 
-<h4>  O projeto consiste em um formulario de login totalmente responsivo e animado.  </h4>
+<h4>  O projeto consiste em um formulario de login e registro totalmente responsivo e animado.  </h4>
 
 
 
